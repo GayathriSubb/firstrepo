@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i'm four
+=======
+four
+>>>>>>> 04c2951 (commit was done successfully)

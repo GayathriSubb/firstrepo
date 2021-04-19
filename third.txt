@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi i'm the third file
+=======
+three
+>>>>>>> 04c2951 (commit was done successfully)
