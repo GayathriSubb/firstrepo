@@ -10,5 +10,6 @@ public class FizzBuzz {
 
 
         return String.valueOf(number);
+        System.out.println("Hello world");
     }
 }
